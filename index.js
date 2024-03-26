@@ -5,7 +5,7 @@ const { version } = require("./package.json");
 
 // Check if the user passed the --version flag
 if (process.argv.includes("--version")) {
-  console.log(`DrinkTea CLI version ${version}`);
+  console.log(`DrinkTea2 CLI version ${version}`);
   process.exit(0);
 }
 
