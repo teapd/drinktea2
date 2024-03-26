@@ -1,4 +1,4 @@
-# Drink Tea CLI 2 🍵
+# Drink Tea CLI 2.0 🍵
 
 Welcome to Drink Tea CLI 2, a delightful Node.js command line application that enhances your tea time. It's simple, interactive, and fun!
 
