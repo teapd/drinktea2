@@ -1,6 +1,6 @@
-# Drink Tea CLI 🍵
+# Drink Tea CLI 2 🍵
 
-Welcome to Drink Tea CLI, a delightful Node.js command line application that enhances your tea time. It's simple, interactive, and fun!
+Welcome to Drink Tea CLI 2, a delightful Node.js command line application that enhances your tea time. It's simple, interactive, and fun!
 
 ## 🌟 Features
 
@@ -22,13 +22,13 @@ These instructions will get you a copy of the project up and running on your loc
 1. Install the package globally using npm:
 
 ```bash
-npm i -g drinktea
+npm i -g drinktea2
 ```
 
 2. Verify the installation:
 
 ```bash
-drinktea --version
+drinktea2 --version
 ```
 
 ## 🎈 Usage
@@ -36,7 +36,7 @@ drinktea --version
 1. Run the application:
 
 ```bash
-drinktea
+drinktea2
 ```
 
 2. You will be prompted to enter your tea name. Type in your favorite tea and hit enter.
